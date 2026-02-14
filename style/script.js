@@ -55,9 +55,9 @@ const fullText12 = splitLines("From:Khiêm--To:giao ", 3);
 
 const allTexts = [fullText1, fullText2, fullText3, fullText4, fullText5, fullText6, fullText7, fullText8, fullText9, fullText10, fullText11, fullText12];
 
-const fontSize = 36;
+const fontSize = 60;
 const fontFamily = "Arial";
-const lineHeight = 120;
+const lineHeight = 80;
 const bearX = 70;
 let bearY = canvas.height - 80;
 
